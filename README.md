@@ -1,6 +1,5 @@
 - Hello, I’m Anna Stewart.
-- I’m interested in Software Development and Mobile/iOS Engineering.
-- I am pursuing a Bachelor of Science in Software Development and Security.
-- I’m currently learning about CoreData and Software Vulnerability Testing.
-- I’m looking for full-time work as an iOS Developer or Engineer!
+- I have a Bachelors in Software Development and Security.
+- I’m currently learning about BlockChain Development and Solidity!
+- I’m looking for full-time work as an Software Developer or Engineer.
 
